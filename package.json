@@ -1,7 +1,7 @@
 {
   "name": "@averay/gulp-frontmatter",
   "author": "Adam Averay (https://adamaveray.com.au/)",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "A Gulp plugin to load frontmatter from files in a gulp-data-compatible manner.",
   "homepage": "https://github.com/adamaveray/gulp-frontmatter",
